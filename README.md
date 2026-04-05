@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/scars-and-screws/scars-and-screws/blob/master/banner.png" />
+</p>
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=scars-and-screws&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
