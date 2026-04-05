@@ -70,7 +70,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/farid-uddin-dev/  
+- 💼 LinkedIn: https://www.linkedin.com/in/scarsandscrews/  
 
 ---
 
