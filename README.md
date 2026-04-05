@@ -3,7 +3,7 @@
 </p>
 
 # 👋 Hey, I'm Farid  
-### ⚙️ scars & screws
+## ⚙️ Scars & Screws
 ### 💻 Full Stack Developer | Backend Focused  
 
 🚀 Building scalable backend systems & web applications  
