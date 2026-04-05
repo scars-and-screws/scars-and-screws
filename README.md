@@ -2,7 +2,7 @@
 ### 💻 Full Stack Developer | Backend Focused  
 
 🚀 Building scalable backend systems & web applications  
-🔐 Security enthusiast | Interested in system design  
+🔐 Security enthusiast | System design enthusiast  
 
 ---
 
@@ -17,12 +17,9 @@
 
 ## 🛠 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postgres,react,python,java,cpp,c,git,linux" />
+</p>
 
 ---
 
@@ -31,28 +28,27 @@
 ### 🔹 Task Management System (In Progress)  
 🔗 https://github.com/scars-and-screws/tms-backend  
 - RBAC (Role-Based Access Control)  
-- JWT Authentication & Authorization  
+- JWT Authentication  
 - Scalable backend architecture  
 
 ---
 
 ### 🔹 Subscription Tracker  
 🔗 https://github.com/scars-and-screws/subscription-tracker  
-- Manage subscriptions & reminders  
-- Backend-focused Node.js project  
+- Subscription management & reminders  
+- Backend-focused Node.js application  
 
 ---
 
 ### 🔹 JavaScript Notes  
 🔗 https://github.com/scars-and-screws/JS-with-notes  
 - Structured JavaScript learning (Beginner → Advanced)  
-- Covers core & advanced concepts  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scars-and-screws&show_icons=true&theme=tokyonight&hide_border=true)
+![Farid's GitHub stats](https://github-readme-stats.vercel.app/api?username=scars-and-screws&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scars-and-screws&layout=compact&theme=tokyonight&hide_border=true)
 
