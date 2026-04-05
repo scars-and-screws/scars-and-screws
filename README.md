@@ -5,6 +5,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=scars-and-screws&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
 # 👋 Hey, I'm Farid  
 ### 💻 Full Stack Developer | Backend Focused  
 
