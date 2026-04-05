@@ -2,7 +2,8 @@
   <img src="https://komarev.com/ghpvc/?username=scars-and-screws&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-# 👋 Hey, I'm Farid | ( Scars & Screws )
+# 👋 Hey, I'm Farid  
+### ⚙️ scars & screws
 ### 💻 Full Stack Developer | Backend Focused  
 
 🚀 Building scalable backend systems & web applications  
