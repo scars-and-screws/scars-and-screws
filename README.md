@@ -3,18 +3,18 @@
 </p>
 
 # 👋 Hey, I'm Farid  
-## ⚙️ Scars & Screws
-### 💻 Full Stack Developer | Backend Focused  
+### ⚙️ scars & screws — backend systems & security
+### 💻 Full Stack Developer • Backend & System Design  
 
-🚀 Building scalable backend systems & web applications  
-🔐 Security enthusiast | ⚙️ System design  
+🚀 Building scalable backend systems & APIs
+🔐 Security mindset • System design focus  
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 MCA Student & Developer  
-- 💡 Passionate about backend engineering & clean architecture  
+- 🎓 MCA Student • Backend Developer  
+- 💡 Focused on backend engineering & clean architecture  
 - 🔍 Exploring system design and real-world scalable systems  
 - 🛠 Love building practical, real-world projects  
 
