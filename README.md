@@ -1,8 +1,11 @@
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=scars-and-screws&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 # 👋 Hey, I'm Farid  
 ### 💻 Full Stack Developer | Backend Focused  
 
 🚀 Building scalable backend systems & web applications  
-🔐 Security enthusiast | System design enthusiast  
+🔐 Security enthusiast | ⚙️ System design  
 
 ---
 
@@ -48,9 +51,9 @@
 
 ## 📊 GitHub Stats
 
-![Farid's GitHub stats](https://github-readme-stats.vercel.app/api?username=scars-and-screws&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+<img src="https://github-readme-stats.vercel.app/api?username=scars-and-screws&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scars-and-screws&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=scars-and-screws&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 ---
 
